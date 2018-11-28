@@ -3,6 +3,24 @@
   
     
     <entry>
+      <title>Blog test</title>
+      <link href="/2018/11/28/Blog-test-1/"/>
+      <url>/2018/11/28/Blog-test-1/</url>
+      <content type="html"><![CDATA[<p>asdfasdfasdfasdf</p>]]></content>
+      
+      
+    </entry>
+    
+    <entry>
+      <title>Blog test</title>
+      <link href="/2018/11/28/Blog-test/"/>
+      <url>/2018/11/28/Blog-test/</url>
+      <content type="html"><![CDATA[]]></content>
+      
+      
+    </entry>
+    
+    <entry>
       <title>Hello World</title>
       <link href="/2018/06/03/hello-world/"/>
       <url>/2018/06/03/hello-world/</url>
